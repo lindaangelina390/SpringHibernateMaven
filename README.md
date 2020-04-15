@@ -1,2 +1,4 @@
-# SpringHibernateMaven
- Aplikasi CRUD sederhana menggunakan Spring + Hibernate + Maven
+SpringHibernateMaven
+====================
+
+Aplikasi CRUD sederhana menggunakan Spring + Hibernate + Maven
